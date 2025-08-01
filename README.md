@@ -1,40 +1,67 @@
-# Ephrem Merid
+# 👨‍💻 Ephrem M Merid
 
 **Software Engineer** | **Agentic AI Developer** | **Full-Stack ML & Data Engineer**  
-Arba Minch, Ethiopia
+**MLOps Practitioner** | **LLM Automation Specialist** | **Django & TensorFlow Developer**
 
-## About Me
+---
 
-I am a results-driven software engineer with a strong focus on applied machine learning, backend development, and intelligent systems design. I hold a Bachelor's degree in Software Engineering from Arba Minch University and have completed certifications in Agentic AI Development and Full-Stack Machine Learning Engineering.
+## 🚀 About Me
 
-My work centers around building scalable, real-world AI systems using large language models (LLMs), MLOps best practices, and full-stack backend solutions. I bring a practical, systems-level approach to designing and deploying AI-powered applications using modern open-source tools and APIs.
+A results-driven software engineer with a strong foundation in backend development, full-stack data systems, and modern AI workflows. I specialize in building agentic systems using open-source models and APIs. Experienced in developing and deploying machine learning pipelines, and automating workflows with MLOps best practices. Graduate of Arba Minch University (B.Sc. in Software Engineering) and certified by IO Academy and Kifiya on advanced AI engineering programs.
 
-## Skills & Tools
+---
 
-### AI Engineering and LLM Automation
-- LangChain, OpenAI API, Hugging Face Transformers, Prompt Engineering, Agentic System Development
+## 🛠️ Skills & Tools
 
-### Machine Learning and Data Science
-- TensorFlow, Scikit-learn, Pandas, NumPy, Model Deployment, Data Warehousing
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Backend Engineering
-- Python, Django, FastAPI, REST APIs, PostgreSQL, MySQL, SQLite
+### ⚙️ Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 
-### MLOps and DevOps
-- Docker, CI/CD (GitHub Actions), DVC, Git, Virtual Environments, Testing & Monitoring
+### ☁️ MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat)
+![MLFlow](https://img.shields.io/badge/MLFlow-02569B?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat)
 
-### Data Visualization and Interfaces
-- Matplotlib, Seaborn, Streamlit, Plotly, Dash
+### 🧠 AI & ML
+![LLM](https://img.shields.io/badge/LLM_Automation-black?style=flat)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-blue?style=flat)
+![Time Series](https://img.shields.io/badge/Time_Series_Modeling-darkgreen?style=flat)
 
-## Education and Certifications
+### 🛢️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- Bachelor of Science in Software Engineering – Arba Minch University  
-- Agentic AI Developer – Ready Tensor  
-- Full-Stack Machine Learning Engineer – Kifiya AI
+---
 
-## Featured Projects
+## 📈 GitHub Stats
 
-- **LLM Agent Framework** – Modular agentic AI pipeline built with LangChain and OpenAI  
-- **End-to-End ML Deployment** – TensorFlow model with Dockerized CI/CD and versioning  
-- **Booking System API** – Django-based REST API with relational database design and testing
+![Ephrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+---
+
+## 🧩 Featured Projects
+
+- **Agentic AI Developer Project** – Agent system with tool use & chaining  
+- **MLOps Pipeline** – Full ML lifecycle using DVC + MLflow  
+- **Data Warehouse App** – ETL pipelines + BI dashboards using SQL & Docker  
+- **LLM Web Agent** – Built with LangChain, FastAPI, and OpenAI APIs
+
+---
+
+## 📫 Contact
+
+Feel free to reach out for collaboration or freelance projects:
+
+- 📧 ephremyourmail@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🌐 [Portfolio](https://your-portfolio.com)
+
+---
 
