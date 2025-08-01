@@ -1,4 +1,4 @@
-# Ephrem Merid
+# Ephrem M Merid
 
 **Software Engineer | Agentic AI Developer | Full-Stack ML & Data Engineer | MLOps | LLM Automation**
 
@@ -42,6 +42,9 @@ Passionate about building intelligent systems, real-time applications, and produ
 ![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
@@ -56,18 +59,26 @@ Passionate about building intelligent systems, real-time applications, and produ
 
 ## Projects Snapshot
 
-### Object Detection App with YOLOv5 + OpenCV
+### Time-Series Forecasting for Portfolio Management Optimization  
+Stack: Python, Pandas, NumPy, Scikit-Learn, Prophet, Matplotlib
 
-Real-time object detection using webcam input.
+### Detecting Changes and Associating Causes on Time-Series Data  
+Stack: Python, Pandas, NumPy, Statsmodels, Matplotlib, Seaborn
 
-![Object Detection Demo](./assets/object_detection.png)
+### Fraud Detection for E-Commerce and Banking Transactions - AI Solutions  
+Stack: Python, Scikit-Learn, XGBoost, Pandas, SQL, Flask
 
-### LLM-Powered Q&A Bot with LangChain + Pinecone
+### Ethiopian Medical Business - Building a Data Warehouse to Store Data  
+Stack: SQL, PostgreSQL, Python, Airflow, ETL Tools, Docker
 
-Full-stack LLM application featuring:  
-- LangChain, FastAPI, Pinecone, Streamlit  
-- Model fine-tuning and query embedding  
-- Docker containerization and CI/CD pipelines
+### Credit Scoring Model for Bati Bank's Buy Now Pay Later Service  
+Stack: Python, Scikit-Learn, Pandas, Flask, Docker, PostgreSQL
+
+### Sentiment Analysis  
+Stack: Python, NLTK, Transformers (Hugging Face), PyTorch, FastAPI
+
+### Solar Radiation Measurement Exploratory Data Analysis  
+Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
