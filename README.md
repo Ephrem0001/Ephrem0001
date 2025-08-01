@@ -52,42 +52,8 @@ Passionate about building intelligent systems, real-time applications, and produ
 
 ## GitHub Stats
 
-![Ephrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ephremerid&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ephremerid&layout=compact&theme=default)
-
----
-
-## Projects Snapshot
-
-### Time-Series Forecasting for Portfolio Management Optimization  
-Stack: Python, Pandas, NumPy, Scikit-Learn, Prophet, Matplotlib
-
-### Detecting Changes and Associating Causes on Time-Series Data  
-Stack: Python, Pandas, NumPy, Statsmodels, Matplotlib, Seaborn
-
-### Fraud Detection for E-Commerce and Banking Transactions - AI Solutions  
-Stack: Python, Scikit-Learn, XGBoost, Pandas, SQL, Flask
-
-### Ethiopian Medical Business - Building a Data Warehouse to Store Data  
-Stack: SQL, PostgreSQL, Python, Airflow, ETL Tools, Docker
-
-### Credit Scoring Model for Bati Bank's Buy Now Pay Later Service  
-Stack: Python, Scikit-Learn, Pandas, Flask, Docker, PostgreSQL
-
-### Sentiment Analysis  
-Stack: Python, NLTK, Transformers (Hugging Face), PyTorch, FastAPI
-
-### Solar Radiation Measurement Exploratory Data Analysis  
-Stack: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-
----
-
-## Contact
-
-Email: ephremerid@gmail.com  
-[LinkedIn](https://linkedin.com/in/ephremerid)  
-[Upwork](https://www.upwork.com/freelancers/~ephremerid)  
-[Portfolio](https://your-portfolio-link.com) *(optional)*
+![Ephrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ephrem0001&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ephrem0001&layout=compact&theme=default)
 
 ---
 
