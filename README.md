@@ -1,4 +1,4 @@
-# Ephrem M Merid
+# Ephrem Mekonnen Merid
 
 **Software Engineer | Agentic AI Developer | Full-Stack ML & Data Engineer | MLOps | LLM Automation**
 
