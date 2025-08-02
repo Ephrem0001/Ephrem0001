@@ -1,11 +1,9 @@
-# Ephrem Mekonnen Merid
+# Ephrem M Merid
 
 **Software Engineer | Agentic AI Developer | Full-Stack ML & Data Engineer | MLOps | LLM Automation**
 
 BSc in Software Engineering, Arba Minch University  
 Currently focused on agentic AI, LLM deployment, and end-to-end ML pipelines.  
-Completed industry certifications from [ReadyTensor](https://readytensor.ai), including:  
-`Agentic AI Developer`, `LLM Fine-Tune & Deployment`, `RAG Systems with LangChain`.  
 Passionate about building intelligent systems, real-time applications, and production-grade ML models.
 
 ---
