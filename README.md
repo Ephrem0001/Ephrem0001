@@ -1,6 +1,6 @@
 # Ephrem M Merid
 
-**Software Engineer | Agentic AI Developer | Full-Stack ML & Data Engineer | MLOps | LLM Automation**
+**Agentic AI Developer | Full-Stack ML & Data Engineer | MLOps | LLM Automation | Software Engineer**
 
 BSc in Software Engineering, Arba Minch University  
 Currently focused on agentic AI, LLM deployment, and end-to-end ML pipelines.  
