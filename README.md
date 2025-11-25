@@ -1,6 +1,6 @@
 # Ephrem M Merid
 
-**Full Stack Data Scientist | Machine Learning Engineer | Generative AI Engineer | Python Developer | AI Agents Builder | Software Engineer**
+**Full Stack Data Scientist | Machine Learning & Software Engineer | Agentic AI | Backend Developer | Data Scientist | UI/UX Designer**
 
 BSc in Software Engineering, Arba Minch University  
 Currently focused on agentic AI, LLM deployment, and end-to-end ML pipelines.  
